@@ -11,7 +11,7 @@
 
 ## RESUMEN PROFESIONAL
 
-Ingeniero Full Stack con más de 3 años de experiencia diseñando y desarrollando soluciones web escalables end-to-end. Especializado en el ecosistema moderno de JavaScript/TypeScript (React, Next.js, Node.js, NestJS) con arquitectura de microservicios y despliegue en cloud (AWS). Experiencia comprobada liderando proyectos desde la concepción hasta producción, logrando reducciones del 60% en costos de infraestructura mediante arquitectura serverless, optimizaciones de performance del 90% en bases de datos, y sistemas de tiempo real procesando ofertas con latencia <200ms. Estudiante de Ingeniería en Inteligencia Artificial con enfoque en integración de LLMs y automatización de procesos.
+Ingeniero Full Stack con 2 años de experiencia diseñando y desarrollando soluciones web escalables end-to-end. Especializado en el ecosistema moderno de JavaScript/TypeScript (React, Next.js, Node.js, NestJS) con arquitectura de microservicios y despliegue en cloud (AWS). Experiencia comprobada liderando proyectos desde la concepción hasta producción, logrando reducciones del 60% en costos de infraestructura mediante arquitectura serverless, optimizaciones de performance del 90% en bases de datos, y sistemas de tiempo real procesando ofertas con latencia <200ms. Estudiante de Ingeniería en Inteligencia Artificial con enfoque en integración de LLMs y automatización de procesos.
 
 ---
 
